@@ -9,7 +9,7 @@
 - End Time: January 15, 2023, 18:45 UTC
 
 **Impact:**
-The repercussions of The Great Emoji Outage of 2023 were profound and felt across our user community. With the emoji service completely unavailable for approximately 4 hours, chaos ensued in the digital expression landscape. An estimated 85% of users were affected, accustomed to the vibrant and varied language of emojis, found themselves stripped of this universal form of communication.
+- The repercussions of The Great Emoji Outage of 2023 were profound and felt across our user community. With the emoji service completely unavailable for approximately 4 hours, chaos ensued in the digital expression landscape. An estimated 85% of users were affected, accustomed to the vibrant and varied language of emojis, found themselves stripped of this universal form of communication.
 
 **Root Cause:**
    - An unintentional global replacement of the emoji database with ASCII art depicting cats wearing space helmets.

@@ -4,11 +4,11 @@
 
 ## Issue Summary:
 
-- **Duration:**
+**Duration:**
 - Start Time: January 15, 2023, 14:30 UTC
 - End Time: January 15, 2023, 18:45 UTC
 
-- **Impact:**
+**Impact:**
 The repercussions of The Great Emoji Outage of 2023 were profound and felt across our user community. With the emoji service completely unavailable for approximately 4 hours, chaos ensued in the digital expression landscape. An estimated 85% of users were affected, accustomed to the vibrant and varied language of emojis, found themselves stripped of this universal form of communication.
 
 **Root Cause:**

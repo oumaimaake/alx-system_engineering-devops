@@ -1,6 +1,7 @@
 <h1 align="center">POSTMORTEM</h1>
 
 ### <div align="center"> Outage Postmortem: The Great Emoji Outage of 2023! </div>
+![cat emoji](https://github.com/oumaimaake/alx-system_engineering-devops/assets/128842183/530331ac-7f6b-42c9-ba35-8988a4c712f4)
 
 ## Issue Summary:
 
@@ -9,7 +10,7 @@
 - End Time: January 15, 2023, 18:45 UTC
 
 **Impact:**
-- The repercussions of The Great Emoji Outage of 2023 were profound and felt across our user community. With the emoji service completely unavailable for approximately 4 hours, chaos ensued in the digital expression landscape. An estimated 85% of users were affected, accustomed to the vibrant and varied language of emojis, found themselves stripped of this universal form of communication.
+- The repercussions of The Great Emoji Outage of 2023 were profound and felt across our user community. With the emoji service completely unavailable for approximately 4 hours, chaos ensued in the digital expression landscape. An estimated 70% of users were affected, accustomed to the vibrant and varied language of emojis, found themselves stripped of this universal form of communication.
 
 **Root Cause:**
    - An unintentional global replacement of the emoji database with ASCII art depicting cats wearing space helmets.
